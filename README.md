@@ -10,13 +10,6 @@ Quizzical is a React-based quiz application that allows users to select quiz cat
 - **Interactive Quiz Interface**: Answer questions and see immediate feedback on your answers.
 - **Score Tracking**: View your score after submitting the quiz and reset the quiz to play again.
 
-## Tech Stack
-
-- **Frontend**: React.js
-- **State Management**: React hooks
-- **API Integration**: Open Trivia Database API
-- **Styling**: Custom CSS
-
 ## Installation
 
 1. **Clone the Repository:**
@@ -61,11 +54,10 @@ The app fetches quiz questions from the Open Trivia Database API. The URL format
 
 ## Acknowledgments
 
-- **Open Trivia Database** for providing the trivia questions API.
-- **React** for the frontend library.
-- **tinycolor2** for color manipulation.
-- **html-entities** for decoding HTML entities.
-- **nanoid** for generating unique IDs.
-- **Scrimba** for the awesome course and design inspiration.
+- [Open Trivia Database](https://opentdb.com/) for providing the trivia questions API.
+- [React](https://reactjs.org/) for the frontend library.
+- [tinycolor2](https://github.com/maskedcoder/tinycolor) for color manipulation.
+- [html-entities](https://www.npmjs.com/package/html-entities) for decoding HTML entities.
+- [Scrimba](https://scrimba.com/) for the awesome design inspiration.
 
 
