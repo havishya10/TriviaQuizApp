@@ -55,7 +55,6 @@ The app fetches quiz questions from the Open Trivia Database API. The URL format
 ## Acknowledgments
 
 - [Open Trivia Database](https://opentdb.com/) for providing the trivia questions API.
-- [React](https://reactjs.org/) for the frontend library.
 - [tinycolor2](https://github.com/maskedcoder/tinycolor) for color manipulation.
 - [html-entities](https://www.npmjs.com/package/html-entities) for decoding HTML entities.
 
